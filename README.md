@@ -1,2 +1,4 @@
 # cole
-my personal repo
+## my personal repo
+<!--
+### about me 
